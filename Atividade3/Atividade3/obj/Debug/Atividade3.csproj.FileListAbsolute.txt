@@ -1,0 +1,9 @@
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.Form1.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.Properties.Resources.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.GenerateResource.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.pdb

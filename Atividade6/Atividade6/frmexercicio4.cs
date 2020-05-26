@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,55 +19,66 @@ namespace Atividade6
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
-            double salBruto = 0,b,c,d,prod,grat,sal;
-
-            double.TryParse(txtSal.Text, out sal);
-            double.TryParse(txtProd.Text, out prod);
-            double.TryParse(txtGrat.Text, out grat);
-
-            if(prod >= 100)
+            if (txtCargo.Text == "" || txtGrat.Text == "" || txtInscricao.Text == "" || txtNome.Text == "" ||
+                txtProd.Text == "" || txtSal.Text == "")
             {
-                b = 1;
+                MessageBox.Show("Preencha todos os campos!");
             }
             else
             {
-                b = 0;
-            }
-            if(prod >= 120)
-            {
-                c = 1;
-            }
-            else
-            {
-                c = 0;
-            }
-            if (prod >= 150)
-            {
-                d = 1;
-            }
-            else
-            {
-                d = 0;
-            }
+                double salBruto = 0, b, c, d, prod, grat, sal;
 
-            salBruto = sal + sal * (0.05 * b + 0.1 * c + 0.1 * d) + grat;
-
-            if(salBruto > 7000)
-            {
-                if(prod>=150 && grat > 0)
+                if (double.TryParse(txtSal.Text, out sal) &&
+                double.TryParse(txtProd.Text, out prod) &&
+                double.TryParse(txtGrat.Text, out grat))
                 {
-                    salBruto = salBruto + 0;
+                    if (prod >= 100)
+                    {
+                        b = 1;
+                    }
+                    else
+                    {
+                        b = 0;
+                    }
+                    if (prod >= 120)
+                    {
+                        c = 1;
+                    }
+                    else
+                    {
+                        c = 0;
+                    }
+                    if (prod >= 150)
+                    {
+                        d = 1;
+                    }
+                    else
+                    {
+                        d = 0;
+                    }
+
+                    salBruto = sal + sal * (0.05 * b + 0.1 * c + 0.1 * d) + grat;
+
+                    if (salBruto > 7000)
+                    {
+                        if (prod >= 150 && grat > 0)
+                        {
+                            salBruto = salBruto + 0;
+                        }
+                        else
+                        {
+                            salBruto = 7000;
+                        }
+                    }
+
+                    MessageBox.Show("O Funcionário:" + txtNome.Text + ',' + txtCargo.Text + ',' +
+                        "da inscrição:" + txtInscricao.Text + "\n" + "Receberá:" + salBruto.ToString());
                 }
                 else
                 {
-                    salBruto = 7000;
+                    MessageBox.Show("Dados Inválidos!"+"\n"+"Por favor,verifique os campos e tente novamente");
                 }
             }
-
-            MessageBox.Show("O Funcionário:" + txtNome.Text + ',' + txtCargo.Text + ',' +
-                "da inscrição:" + txtInscricao.Text + "\n" + "Receberá:" + salBruto.ToString());
-
-
         }
     }
 }

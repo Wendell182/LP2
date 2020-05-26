@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,24 +19,32 @@ namespace Atividade6
 
         private void btnPalin_Click(object sender, EventArgs e)
         {
-            string palavra = txtPalin.Text;
-            palavra = palavra.Replace(" ", "");
-            palavra = palavra.ToUpper();
 
-            char[] test = palavra.ToCharArray();
-            Array.Reverse(test);
-            string test2 = new string(test);
-           
-
-            if(String.Equals(palavra,test2))
+            if (txtPalin.Text == "")
             {
-                MessageBox.Show("É palíndromo:" + test2);
+                MessageBox.Show("Digite a frase!");
             }
             else
             {
-                MessageBox.Show("Não é palíndromo:" + test2);
-            }
 
+                string palavra = txtPalin.Text;
+                palavra = palavra.Replace(" ", "");
+                palavra = palavra.ToUpper();
+
+                char[] test = palavra.ToCharArray();
+                Array.Reverse(test);
+                string test2 = new string(test);
+
+
+                if (String.Equals(palavra, test2))
+                {
+                    MessageBox.Show("É palíndromo:" + test2);
+                }
+                else
+                {
+                    MessageBox.Show("Não é palíndromo:" + test2);
+                }
+            }
         }
     }
 }

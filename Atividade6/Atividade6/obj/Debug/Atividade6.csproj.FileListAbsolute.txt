@@ -1,0 +1,13 @@
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.Form1.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmexercicio1.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmexercicio2.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmexercicio3.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade6\Atividade6\Atividade6\obj\Debug\Atividade6.frmexercicio4.resources

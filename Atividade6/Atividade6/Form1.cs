@@ -19,29 +19,41 @@ namespace Atividade6
 
         private void button4_Click(object sender, EventArgs e)
         {
+            Form fc = Aplication.OpenForms["frmexercicio2"];
+            
+            if(fc != null)
+                fc.close();
             frmexercicio2 frm2 = new frmexercicio2();
-            frm2.WindowState = FormWindowState.Maximized;
             frm2.Show();
         }
 
         private void btnEx1_Click(object sender, EventArgs e)
         {
+            Form fc = Aplication.OpenForms["frmexercicio1"];
+            
+            if(fc != null)
+                fc.close();
             frmexercicio1 frm1 = new frmexercicio1();
-            frm1.WindowState = FormWindowState.Maximized;
             frm1.Show();
         }
 
         private void btnEx3_Click(object sender, EventArgs e)
         {
+            Form fc = Aplication.OpenForms["frmexercicio3"];
+            
+            if(fc != null)
+                fc.close();
             frmexercicio3 frm3 = new frmexercicio3();
-            frm3.WindowState = FormWindowState.Maximized;
             frm3.Show();
         }
 
         private void btnEx4_Click(object sender, EventArgs e)
         {
+            Form fc = Aplication.OpenForms["frmexercicio4"];
+            
+            if(fc != null)
+                fc.close();
             frmexercicio4 frm4 = new frmexercicio4();
-            frm4.WindowState = FormWindowState.Maximized;
             frm4.Show();
         }
 

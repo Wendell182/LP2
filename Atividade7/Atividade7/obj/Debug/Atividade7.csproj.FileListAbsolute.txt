@@ -1,0 +1,10 @@
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\wende\Documents\FATEC\LP2\Atividade7pos\Atividade7\Atividade7\obj\Debug\Atividade7.frmEx7.resources

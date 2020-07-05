@@ -1,0 +1,12 @@
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.frmPrincipal.resources
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PCidade.frmCidade.resources
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+C:\Users\wende\Documents\FATEC\LP2\ProjetoFinal\PALUNO\PALUNO\obj\Debug\PALUNO.frmSobre.resources
